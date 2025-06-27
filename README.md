@@ -31,9 +31,9 @@
 python3 -m venv venv
 source venv/bin/activate     # Linux / macOS
 venv\Scripts\activate        # Windows
-
+```
 
 2. ბიბლიოთეკების გადმოწერა:
 ```bash
 pip install -r requirements.txt #ყველაფერზე
-
+```
