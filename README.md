@@ -37,3 +37,16 @@ venv\Scripts\activate        # Windows
 ```bash
 pip install -r requirements.txt #ყველაფერზე
 ```
+
+3. ბაზის შექმნა:
+უბრალოდ ახალი ფაილი შექმენი სახელად sqlite.db
+
+4. როგორ გავუშვათ main.py:
+```bash
+python main.py #ყველაფერზე
+```
+ამის მერე თქვენთვითონ მიხვდებით ჯერ პირველად ჩემი სურათი იქნება მარგრამ
+მალე შევცვლი
+password: dati123
+
+დანარჩენი თქვენზეა
